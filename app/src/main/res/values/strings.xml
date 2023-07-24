@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BTVN</string>
+    <string name="A_screen">Màn hình A</string>
+    <string name="toB">Nhảy sang màn hình B</string>
+    <string name="B_screen">Màn hình B</string>
+    <string name="toC">Nhảy sang màn hình C</string>
+    <string name="name">Vũ Trung Lập</string>
+</resources>
